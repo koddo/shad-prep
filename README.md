@@ -10,8 +10,9 @@
 
 Группа в телеграме: https://t.me/shad_prep_meetup_msk
 
-Встречаемся в библиотеке Научка — http://nauchka.ru — Дубининская 20 — по пятницам, 18:00-21:00.
+Встречаемся в библиотеке Научка — http://nauchka.ru — по пятницам, 18:00-21:00.
 
+Адрес: Дубининская 20  
 https://yandex.ru/maps/-/CGSYbA7d  
 https://goo.gl/maps/8Pn2v4fL8z3kdiJi6. 
 
