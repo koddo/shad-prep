@@ -15,7 +15,7 @@
 Адрес: Дубининская 20  
 Метро Павелецкая или Серпуховская  
 https://yandex.ru/maps/-/CGSYbA7d  
-https://goo.gl/maps/8Pn2v4fL8z3kdiJi6. 
+https://goo.gl/maps/8Pn2v4fL8z3kdiJi6  
 
 # Сравнение цен
 
