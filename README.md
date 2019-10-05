@@ -34,5 +34,5 @@ https://goo.gl/maps/8Pn2v4fL8z3kdiJi6
 
 TODO: материалы для подготовки
 
-[Программы поступления](programmes.md) в ШАД, на ФКН, etc.
+[Программы поступления](programmes.md) в ШАД, на ФКН, в Сколково, etc.
 
