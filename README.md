@@ -55,6 +55,6 @@ Gilbert Strang [lectures on Linear Algebra](https://www.youtube.com/playlist?lis
 http://www.texpaste.com  
 
 Можно еще попробовать:  
-https://www.codecogs.com/latex/eqneditor.php  
+https://www.codecogs.com/latex/eqneditor.php — работает в слэке, но не в телеграме  
 http://mathb.in  
 https://stackedit.io  
