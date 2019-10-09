@@ -49,9 +49,8 @@ Gilbert Strang [lectures on Linear Algebra](https://www.youtube.com/playlist?lis
 
 # Misc
 
-## LaTeX
+## LaTeX в чате
 
-Чтобы постить latex в чат:  
 https://quicklatex.com  
 https://www.codecogs.com/latex/eqneditor.php — работает в слэке, но не в телеграме  
 http://mathb.in  
@@ -60,3 +59,4 @@ http://mathb.in
 https://stackedit.io  
 https://hackmd.io/
 http://www.texpaste.com/ — падает иногда  
+https://www.hostmath.com  
