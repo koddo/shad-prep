@@ -57,6 +57,6 @@ http://mathb.in
 
 Можно еще попробовать:  
 https://stackedit.io  
-https://hackmd.io/
+https://hackmd.io/  
 http://www.texpaste.com/ — падает иногда  
 https://www.hostmath.com  
