@@ -60,3 +60,7 @@ https://stackedit.io
 https://hackmd.io/  
 http://www.texpaste.com/ — падает иногда  
 https://www.hostmath.com  
+
+Распознавание рукописной математики:  
+https://webdemo.myscript.com/views/math/index.html  
+https://mathpix.com  
