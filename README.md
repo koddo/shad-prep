@@ -52,9 +52,9 @@ Gilbert Strang [lectures on Linear Algebra](https://www.youtube.com/playlist?lis
 ## LaTeX
 
 Чтобы постить latex в чат:  
-http://www.texpaste.com  
-
-Можно еще попробовать:  
 https://www.codecogs.com/latex/eqneditor.php — работает в слэке, но не в телеграме  
 http://mathb.in  
+
+Можно еще попробовать:  
 https://stackedit.io  
+http://www.texpaste.com  
