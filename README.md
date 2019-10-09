@@ -36,3 +36,16 @@ TODO: материалы для подготовки
 
 [Программы поступления](programmes.md) в ШАД, на ФКН, в Сколково, etc.
 
+Чтобы постить latex в чат:  
+http://www.texpaste.com  
+http://mathb.in  
+
+## Линейная алгебра
+
+Essence of linear algebra by 3Blue1Brown — <https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab>  
+Gilbert Strang lectures on Linear Algebra — <https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D>  
+
+Кострикин, Сборник задач по алгебре 
+Прасолов, Задачи и теоремы линейной алгебры — <https://www.mccme.ru/prasolov/>, <http://staff.math.su.se/mleites/books/prasolov-1994-problems.pdf>  
+Linear Algebra Problem Book by Paul Halmos — <https://www.amazon.com/Algebra-Problem-Dolciani-Mathematical-Expositions/dp/0883853221>  
+
