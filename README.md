@@ -42,7 +42,7 @@ TODO: материалы для подготовки
 
 Демидович, антидемидович, китайский антидемидович.
 
-Приложениея, которые берут интегралы и показывают шаги:  
+Приложения, которые берут интегралы и показывают шаги:  
 <https://products.wolframalpha.com/mobile/> — one $3 payment for the mobile, no need to pay $5 monthly  
 <https://www.symbolab.com/>  
 <https://www.mathway.com/>  
