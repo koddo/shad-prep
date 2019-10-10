@@ -75,3 +75,4 @@ https://www.hostmath.com
 Распознавание рукописной математики:  
 https://webdemo.myscript.com/views/math/index.html  
 https://mathpix.com  
+http://detexify.kirelabs.org/classify.html — распознавание математических символов  
