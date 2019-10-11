@@ -61,6 +61,14 @@ Gilbert Strang [lectures on Linear Algebra](https://www.youtube.com/playlist?lis
 Прасолов, Задачи и теоремы линейной алгебры — <https://www.mccme.ru/prasolov/>, <http://staff.math.su.se/mleites/books/prasolov-1994-problems.pdf>  
 [Linear Algebra Problem Book](https://www.amazon.com/Algebra-Problem-Dolciani-Mathematical-Expositions/dp/0883853221) by Paul Halmos  
 
+## Теория вероятностей
+
+<http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability
+
+Феллер В. Введение в теорию вероятностей и её приложения  
+Ширяев А.И. Вероятность  
+Ширяев et. al. Вероятность в теоремах и задачах (с доказательствами и решениями)  
+
 # Misc
 
 ## LaTeX в чате
