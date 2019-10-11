@@ -11,6 +11,8 @@ TODO: add more
 
 TODO: онлайн-экзамены  
 
+Письменный экзамен — в конце мая.
+
 ## ФКН
 
 <https://www.hse.ru/ma/datasci/>
@@ -21,6 +23,9 @@ TODO: онлайн-экзамены
 TODO: exam demo versions
 
 Программа подготовки к поступлению на продвинутый трек АИД: <https://www.hse.ru/data/2018/04/16/1150767849/Entrance%20program%20WDA%202018.pdf>
+
+Олимпиада — середина марта
+Экзамены — в августе
 
 ## Сколково
 
@@ -38,6 +43,8 @@ TODO
 ## Ozon Masters
 
 <https://ozonmasters.ru>
+
+Набор — февраль-март
 
 TODO
 
