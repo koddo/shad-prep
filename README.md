@@ -52,6 +52,13 @@ TODO: примерные даты экзаменов в разные места
 <https://www.derivative-calculator.net>  
 <https://www.integral-calculator.com>  
 
+MIT 18.01 Single Variable Calculus, Fall 2006 — https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1  
+MIT 18.02 Multivariable Calculus, Fall 2007 — https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38  
+https://www.khanacademy.org/math/calculus-1  
+https://www.khanacademy.org/math/calculus-2  
+https://www.khanacademy.org/math/multivariable-calculus  
+
+
 ## Линейная алгебра
 
 Вот материалы прошлых лет по алгебре, которые Дима давал:
@@ -90,19 +97,33 @@ TODO: отфильтровать, оставить только нужное
 Ширяев А.И. Вероятность  
 Ширяев et. al. Вероятность в теоремах и задачах (с доказательствами и решениями)  
 
-<http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability
+<http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability  
+
+mit probability 2011 -- <https://www.youtube.com/playlist?list=PLw1fyPVTTowrkyhzkc_PiItPm-S58_UQ1>  
+mit probability 2018 -- <https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6,> <https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm>  
+<https://www.khanacademy.org/math/statistics-probability>  
+harvard -- <https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo>  
 
 ## Программирование
 
 Есть платный курс яндекса, на дне открытых дверей сказали, что первых двух поясов по C++ достаточно.  
-https://yandex.ru/online-courses/  
-https://www.coursera.org/specializations/c-plus-plus-modern-development/  
-https://www.coursera.org/specializations/data-structures-algorithms/  
+<https://yandex.ru/online-courses/>  
+<https://www.coursera.org/specializations/c-plus-plus-modern-development/>  
+<https://www.coursera.org/specializations/data-structures-algorithms/>  
 
 Но вообще, должно быть достаточно следующего, что бесплатно. Выясняем, насколько это верно.  
-https://www.hackerrank.com/domains/cpp  
-https://www.hackerrank.com/domains/algorithms  
-https://leetcode.com  
+<https://www.hackerrank.com/domains/cpp>  
+<https://www.hackerrank.com/domains/algorithms>  
+<https://leetcode.com>  
+
+## Остальное
+
+Для вышки: учебник по дискре — <http://wiki.cs.hse.ru/Дискретная_математика_1_2019/2020>  
+Теория графов — <https://www.coursera.org/learn/teoriya-grafov>  
+
+Дифуры: 
+Gilbert Strang — <https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG>, older -- <https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980>  
+<https://www.khanacademy.org/math/differential-equations>  
 
 # Misc
 
