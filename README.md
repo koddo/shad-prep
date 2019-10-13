@@ -54,20 +54,55 @@ TODO: примерные даты экзаменов в разные места
 
 ## Линейная алгебра
 
-[Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown  
-Gilbert Strang [lectures on Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)  
+Вот материалы прошлых лет по алгебре, которые Дима давал:
 
-Кострикин, Сборник задач по алгебре  
-Прасолов, Задачи и теоремы линейной алгебры — <https://www.mccme.ru/prasolov/>, <http://staff.math.su.se/mleites/books/prasolov-1994-problems.pdf>  
-[Linear Algebra Problem Book](https://www.amazon.com/Algebra-Problem-Dolciani-Mathematical-Expositions/dp/0883853221) by Paul Halmos  
+- здесь попроще, для вечерников, без доказательств — https://yadi.sk/d/rGp2se9qIlhyQA
+- здесь хардкор для студентов — https://yadi.sk/d/UDANUJ5HGFucFA
+- шестидневный курс по всей математике для машинного обучения — https://yadi.sk/d/HIRsHY8EiJlwiw
+- материалы курса по Линейной алгебре для пилотного потока ФКН 2018-2019, на всякий случай тоже здесь — http://wiki.cs.hse.ru/Линейная_алгебра_и_геометрия_на_ПМИ_2018/2019_(пилотный_поток)
+
+TODO: отфильтровать, оставить только нужное
+
+Книги и задачники:
+
+- Э.Б. Винберг. Курс алгебры. М.: Факториал, 1999 (или любое последующее издание)
+- А.И. Кострикин. Введение в алгебру. Часть II. Линейная алгебра. М.: Физматлит, 2000
+- S. Axler. Linear Algebra Done Right, Second Edition, Springer, 1997 (или любое последующее издание)
+Кострикин Манин. Линейная алгебра. любое издание.
+
+- Сборник задач по алгебре под редакцией А.Н. Кострикина. Новое издание. М.: МЦНМО, 2009.
+- И.В. Проскуряков. Сборник задач по линейной алгебре (любое издание, например М.: БИНОМ, 2005)
+- Г.Д. Ким, Л.В. Крицков. Алгебра и аналитическая геометрия. Теоремы и задачи. Том I. М.: "Планета знаний", 2007.
+
+Еще обсуждали эти, но пока не ясно, скорее всего, не нужны.
+
+- Прасолов, Задачи и теоремы линейной алгебры — <https://www.mccme.ru/prasolov/>, <http://staff.math.su.se/mleites/books/prasolov-1994-problems.pdf>  
+- [Linear Algebra Problem Book](https://www.amazon.com/Algebra-Problem-Dolciani-Mathematical-Expositions/dp/0883853221) by Paul Halmos  
+
+Видео:
+
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown  
+- Gilbert Strang [lectures on Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) — здесь нет много чего, например, собственных значений, но начала разобраны
 
 ## Теория вероятностей
-
-<http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability
 
 Феллер В. Введение в теорию вероятностей и её приложения  
 Ширяев А.И. Вероятность  
 Ширяев et. al. Вероятность в теоремах и задачах (с доказательствами и решениями)  
+
+<http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability
+
+## Программирование
+
+Есть платный курс яндекса, на дне открытых дверей сказали, что первых двух поясов по C++ достаточно.  
+https://yandex.ru/online-courses/  
+https://www.coursera.org/specializations/c-plus-plus-modern-development/  
+https://www.coursera.org/specializations/data-structures-algorithms/  
+
+Но вообще, должно быть достаточно следующего, что бесплатно. Выясняем, насколько это верно.  
+https://www.hackerrank.com/domains/cpp  
+https://www.hackerrank.com/domains/algorithms  
+https://leetcode.com  
 
 # Misc
 
