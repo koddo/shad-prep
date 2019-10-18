@@ -61,7 +61,11 @@ https://www.khanacademy.org/math/multivariable-calculus
 
 ## Линейная алгебра
 
-Вот материалы прошлых лет по алгебре, которые Дима давал:
+Димины материалы и домашнее задание:
+
+<https://yadi.sk/d/t0jjC8X4bkZDVQ>
+
+Вот материалы прошлых лет:
 
 - здесь попроще, для вечерников, без доказательств — https://yadi.sk/d/rGp2se9qIlhyQA
 - здесь хардкор для студентов — https://yadi.sk/d/UDANUJ5HGFucFA
