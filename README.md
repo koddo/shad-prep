@@ -120,6 +120,8 @@ harvard -- <https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxb
 <https://www.hackerrank.com/domains/algorithms>  
 <https://leetcode.com>  
 
+Здесь человек прорешал много задач с литкода и выписал подсказки по типам задач, мы можем сделать похожий список: <https://github.com/SeanPrashad/lc#tips-to-consider>
+
 ## Остальное
 
 Для вышки: учебник по дискре — <http://wiki.cs.hse.ru/Дискретная_математика_1_2019/2020>  
