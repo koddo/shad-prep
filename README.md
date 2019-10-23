@@ -30,9 +30,7 @@ https://goo.gl/maps/8Pn2v4fL8z3kdiJi6
 
 # Материалы
 
-[Программы поступления](programmes.md) в ШАД, на ФКН, в Сколково, etc.
-
-TODO: примерные даты экзаменов в разные места
+Линейная алгебра и теория вероятностей в приоритете для машинного обучения, мы начинаем с них.
 
 ## Линейная алгебра
 
@@ -132,6 +130,12 @@ Gilbert Strang — <https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLK
 <https://www.khanacademy.org/math/differential-equations>  
 
 # Misc
+
+## Даты и программы экзаменов
+
+[Программы поступления](programmes.md) в ШАД, на ФКН, в Сколково, etc.
+
+TODO: примерные даты экзаменов в разные места
 
 ## LaTeX в чате
 
