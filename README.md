@@ -32,38 +32,20 @@ https://goo.gl/maps/8Pn2v4fL8z3kdiJi6
 
 # Материалы
 
-Скоро мы выложим много всего.
-
-TODO: материалы для подготовки
-
 [Программы поступления](programmes.md) в ШАД, на ФКН, в Сколково, etc.
 
 TODO: примерные даты экзаменов в разные места
-
-## Математический анализ
-
-Демидович, антидемидович, китайский антидемидович.
-
-Приложения, которые берут интегралы и показывают шаги:  
-<https://products.wolframalpha.com/mobile/> — one $3 payment for the mobile, no need to pay $5 monthly  
-<https://www.symbolab.com/>  
-<https://www.mathway.com/>  
-<https://gamma.sympy.org>  
-<https://www.derivative-calculator.net>  
-<https://www.integral-calculator.com>  
-
-MIT 18.01 Single Variable Calculus, Fall 2006 — https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1  
-MIT 18.02 Multivariable Calculus, Fall 2007 — https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38  
-https://www.khanacademy.org/math/calculus-1  
-https://www.khanacademy.org/math/calculus-2  
-https://www.khanacademy.org/math/multivariable-calculus  
-
 
 ## Линейная алгебра
 
 Димины материалы и домашнее задание:
 
-<https://yadi.sk/d/t0jjC8X4bkZDVQ>
+- <https://yadi.sk/d/t0jjC8X4bkZDVQ>
+
+Пример видео, которые получают участники:
+
+- ШАД prep — линал 01 — https://www.youtube.com/watch?v=qpbDzZETNhA
+- [таймстэмпы](timestamps.linear_algebra.md)
 
 Вот материалы прошлых лет:
 
@@ -94,6 +76,27 @@ TODO: отфильтровать, оставить только нужное
 
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown  
 - Gilbert Strang [lectures on Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) — здесь нет много чего, например, собственных значений, но начала разобраны
+
+
+
+## Математический анализ
+
+Демидович, антидемидович, китайский антидемидович.
+
+Приложения, которые берут интегралы и показывают шаги:  
+<https://products.wolframalpha.com/mobile/> — one $3 payment for the mobile, no need to pay $5 monthly  
+<https://www.symbolab.com/>  
+<https://www.mathway.com/>  
+<https://gamma.sympy.org>  
+<https://www.derivative-calculator.net>  
+<https://www.integral-calculator.com>  
+
+MIT 18.01 Single Variable Calculus, Fall 2006 — https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1  
+MIT 18.02 Multivariable Calculus, Fall 2007 — https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38  
+https://www.khanacademy.org/math/calculus-1  
+https://www.khanacademy.org/math/calculus-2  
+https://www.khanacademy.org/math/multivariable-calculus  
+
 
 ## Теория вероятностей
 
