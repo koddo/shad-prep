@@ -113,8 +113,9 @@ harvard -- <https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxb
 <https://yandex.ru/online-courses/>  
 <https://www.coursera.org/specializations/c-plus-plus-modern-development/>  
 <https://www.coursera.org/specializations/data-structures-algorithms/>  
+Если что, можно запросить financial aid с любым текстом, там робот ровно через две недели предоставляет его всем, не читая.  
 
-Но вообще, должно быть достаточно следующего, что бесплатно. Выясняем, насколько это верно.  
+Но вообще, должно быть достаточно следующего, что бесплатно. TODO: Выясняем, насколько это верно.  
 <https://www.hackerrank.com/domains/cpp>  
 <https://www.hackerrank.com/domains/algorithms>  
 <https://leetcode.com>  
