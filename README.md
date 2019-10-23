@@ -43,7 +43,7 @@ TODO: примерные даты экзаменов в разные места
 Пример видео, которые получают участники:
 
 - ШАД prep — линал 01 — https://www.youtube.com/watch?v=qpbDzZETNhA
-- [таймстэмпы](timestamps.linear_algebra.md) на ютубе кликабельны
+- таймстэмпы на ютубе в описании кликабельны, здесь они все собраны в один файл: [timestamps.linear_algebra.md](timestamps.linear_algebra.md)
 
 Вот материалы прошлых лет:
 
