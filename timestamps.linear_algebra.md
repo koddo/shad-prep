@@ -1,4 +1,8 @@
+Здесь просто копия описания под видео на ютубе. Там таймстэмпы кликабельные
+
 # ШАД prep — линал 01
+
+https://www.youtube.com/watch?v=qpbDzZETNhA
 
 Материалы и домашнее задание: https://www.github.com/koddo/shad-prep-meetup-msk
 Таймстэмпы:
