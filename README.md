@@ -6,7 +6,7 @@
 
 # Meetup
 
-Цена участия — 1500 рублей за трехчасовое занятие. С видеозаписью, набранными материалами и домашними заданиями. Группа в телеграме: https://t.me/shad_prep_meetup_msk
+Цена участия — 1500 рублей за трехчасовое занятие. С видеозаписью, набранными материалами и домашними заданиями и группой в телеграме: https://t.me/shad_prep_meetup_msk
 
 Нам помогает готовиться опытный преподаватель — выпускник мехмата МГУ, кандидат физико-математических наук Дима Трушин.
 
@@ -15,6 +15,8 @@
 Метро Павелецкая или Серпуховская  
 https://yandex.ru/maps/-/CGSYbA7d  
 https://goo.gl/maps/8Pn2v4fL8z3kdiJi6  
+
+Тем, кто пропустил или удаленно — 1000 рублей.
 
 # Как проходят занятия
 
@@ -26,7 +28,7 @@ https://goo.gl/maps/8Pn2v4fL8z3kdiJi6
 
 Подготовительные курсы в магистратуру ФКН — https://fdp.hse.ru/mag_courses/ — 40 тысяч рублей за семестр, в котором 22 занятия, включая внутренние итоговые экзамены. Получается 1800 рублей за занятие.
 
-В наши 1500 за три часа включена аренда помещения, нас бесплатно никуда не пустят, к сожалению.
+В наши 1500 включена аренда помещения, нас бесплатно никуда не пустят, к сожалению.
 
 # Материалы
 
@@ -73,6 +75,19 @@ TODO: отфильтровать, оставить только нужное
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown  
 - Gilbert Strang [lectures on Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) — здесь нет много чего, например, собственных значений, но начала разобраны
 
+## Теория вероятностей
+
+Феллер В. Введение в теорию вероятностей и её приложения  
+Ширяев А.И. Вероятность  
+Ширяев et. al. Вероятность в теоремах и задачах (с доказательствами и решениями)  
+
+<http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability  
+
+mit probability 2011 -- <https://www.youtube.com/playlist?list=PLw1fyPVTTowrkyhzkc_PiItPm-S58_UQ1>  
+mit probability 2018 -- <https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6,> <https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm>  
+<https://www.khanacademy.org/math/statistics-probability>  
+harvard -- <https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo>  
+
 ## Математический анализ
 
 Демидович, антидемидович, китайский антидемидович.
@@ -91,29 +106,17 @@ https://www.khanacademy.org/math/calculus-1
 https://www.khanacademy.org/math/calculus-2  
 https://www.khanacademy.org/math/multivariable-calculus  
 
-
-## Теория вероятностей
-
-Феллер В. Введение в теорию вероятностей и её приложения  
-Ширяев А.И. Вероятность  
-Ширяев et. al. Вероятность в теоремах и задачах (с доказательствами и решениями)  
-
-<http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability  
-
-mit probability 2011 -- <https://www.youtube.com/playlist?list=PLw1fyPVTTowrkyhzkc_PiItPm-S58_UQ1>  
-mit probability 2018 -- <https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6,> <https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm>  
-<https://www.khanacademy.org/math/statistics-probability>  
-harvard -- <https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo>  
-
 ## Программирование
 
-Есть платный курс яндекса, на дне открытых дверей сказали, что первых двух поясов по C++ достаточно.  
+Есть платный курс яндекса по C++, на дне открытых дверей сказали, что первых двух поясов достаточно.  
 <https://yandex.ru/online-courses/>  
 <https://www.coursera.org/specializations/c-plus-plus-modern-development/>  
+
+Вот этот курс по алгоритмам и структурам важнее для экзамена.
 <https://www.coursera.org/specializations/data-structures-algorithms/>  
 Если что, можно запросить financial aid с любым текстом, там робот ровно через две недели предоставляет его всем, не читая.  
 
-Но вообще, должно быть достаточно следующего, что бесплатно. TODO: Выясняем, насколько это верно.  
+Но вообще, должно быть достаточно следующего, что бесплатно.  
 <https://www.hackerrank.com/domains/cpp>  
 <https://www.hackerrank.com/domains/algorithms>  
 <https://leetcode.com>  
