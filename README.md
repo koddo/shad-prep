@@ -21,7 +21,7 @@
 - ШАД prep — линал 01 — https://www.youtube.com/watch?v=qpbDzZETNhA
 - таймстэмпы на ютубе в описании кликабельны, здесь они все собраны в один файл: [timestamps.linear_algebra.md](timestamps.linear_algebra.md)
 
-Вот материалы прошлых лет:
+Вот Димины материалы прошлых лет:
 
 - здесь попроще, для вечерников, без доказательств — https://yadi.sk/d/rGp2se9qIlhyQA
 - здесь хардкор для студентов — https://yadi.sk/d/UDANUJ5HGFucFA
