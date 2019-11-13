@@ -175,7 +175,9 @@ det( λE ) = λ^n — это часто забывают и пишут прос�
 2:23:41 пример, как пользоваться этим: det( E - αJvv^t ) = det( E - (αJv) (v^t) ) = χ_{AB}(1) = 1^{n-1} χ_{BA}(1)  
 
 
-# For copypasting
+# Symbols for copypasting
+
+https://altcodeunicode.com/alt-codes-math-symbols/
 
 λ  
   
