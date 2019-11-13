@@ -104,8 +104,8 @@ Gilbert Strang — <https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLK
 
 ## LaTeX в чате
 
-Для отдельных формул — https://quicklatex.com  
-Для текстов — http://mathb.in  
+Для отдельных формул, которые вставятся в чат — https://quicklatex.com  
+Pastebin для latex-текстов — http://mathb.in  
 
 # Участие платное
 
