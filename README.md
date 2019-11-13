@@ -6,7 +6,7 @@
 
 Примерно те же требования и для поступления в магистратуру ФКН, Сколково, МФТИ, для Ozon Masters, MADE: [программы поступления](programmes.md).
 
-https://t.me/shad_prep_meetup_msk
+Чат: https://t.me/shad_prep_meetup_msk
 
 # Материалы
 
