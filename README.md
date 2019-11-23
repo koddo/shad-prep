@@ -29,10 +29,10 @@
 - шестидневный курс по всей математике для машинного обучения — https://yadi.sk/d/HIRsHY8EiJlwiw
 - хардкор для студентов на всякий случай тоже здесь — материалы курса по Линейной алгебре для пилотного потока ФКН 2018-2019 — http://wiki.cs.hse.ru/Линейная_алгебра_и_геометрия_на_ПМИ_2018/2019_(пилотный_поток)
 
-Полезные видео, которые не помогут решать задачи, но помогут разобраться, с чем мы имеем дело:
+Полезные штуки, которые не помогут решать задачи, но помогут разобраться, с чем мы имеем дело:
 
-- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown  
-- [перевод](https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown, [перевод](https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
+- Интерактивная визуализация — https://the-learning-machine.com/article/machine-learning/linear-algebra
 
 Книги и задачники:
 
