@@ -312,12 +312,17 @@ in progress
 
 # Symbols for copypasting
 
-https://altcodeunicode.com/alt-codes-math-symbols/
+https://altcodeunicode.com/alt-codes-math-symbols/  
+https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode  
 
 λ  
   
 ∃  
 ⊆  
+⊇
 ⇒  
 ≤  
-≥  
+≥
+∅
+∈
+∉
