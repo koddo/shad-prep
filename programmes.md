@@ -46,7 +46,10 @@ TODO
 
 Набор — февраль-март
 
-TODO
+Задания:
+
+- https://yadi.sk/i/hwCmja9kb3MgVw
+- https://yadi.sk/i/WHbA141VSw5PLA
 
 ## MADE
 
