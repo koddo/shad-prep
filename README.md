@@ -18,10 +18,19 @@
 
 - <https://yadi.sk/d/t0jjC8X4bkZDVQ>
 
-Пример видео, которые получают участники:
+Пример видео, которые получают участники: 
 
 - ШАД prep — линал 01 — https://www.youtube.com/watch?v=qpbDzZETNhA
-- таймстэмпы на ютубе в описании кликабельны, здесь они все собраны в один файл: [timestamps.linear_algebra.md](timestamps.linear_algebra.md)
+
+Таймстэмпы на ютубе в описании кликабельны, здесь они все собраны в один файл:
+
+- [ШАД prep — линал 01](timestamps.linear_algebra.md#шад-prep--линал-01)
+- [ШАД prep — линал 02](timestamps.linear_algebra.md#шад-prep--линал-02)
+- [ШАД prep — линал 03](timestamps.linear_algebra.md#шад-prep--линал-03)
+- [ШАД prep — линал 04](timestamps.linear_algebra.md#шад-prep--линал-04)
+- [ШАД prep — линал 05](timestamps.linear_algebra.md#шад-prep--линал-05)
+- [ШАД prep — линал 06](timestamps.linear_algebra.md#шад-prep--линал-06)
+- [ШАД prep — линал 07](timestamps.linear_algebra.md#шад-prep--линал-07)
 
 Вот Димины материалы прошлых лет:
 
