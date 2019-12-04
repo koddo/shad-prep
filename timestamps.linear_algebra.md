@@ -373,7 +373,7 @@ https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode
 ⊆ ⊇  
 ∩ ∪  
 ⇒  
-≤ ≥  
+≤ ≥ ≠  
 ∅ ∈ ∉  
 ∑
 
