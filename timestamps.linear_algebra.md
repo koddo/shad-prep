@@ -322,6 +322,7 @@ https://www.youtube.com/watch?v=qpbDzZETNhA
 16:12 задача: v ∈ R^n — найти собственные значения матрицы vv^t  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;для этого вспоминаем, что если матрица A высокая ▯, а B широкая ▭, то spec(AB) = {0} ∪ spec{BA}  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и еще что det(E - λAB) = λ^{n-m} det(E - λBA)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;док-во — третье видео, 2:15:59
   
 26:27 проекторы  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P^2 = P — это алгебраическое определение  
