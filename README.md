@@ -31,6 +31,7 @@
 - [ШАД prep — линал 05](timestamps.linear_algebra.md#шад-prep--линал-05)
 - [ШАД prep — линал 06](timestamps.linear_algebra.md#шад-prep--линал-06)
 - [ШАД prep — линал 07](timestamps.linear_algebra.md#шад-prep--линал-07)
+- [ШАД prep — линал 08](timestamps.linear_algebra.md#шад-prep--линал-08)
 
 Вот Димины материалы прошлых лет:
 
