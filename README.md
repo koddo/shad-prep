@@ -60,8 +60,7 @@
 
 <http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability  
 
-mit probability 2011 -- <https://www.youtube.com/playlist?list=PLw1fyPVTTowrkyhzkc_PiItPm-S58_UQ1>  
-mit probability 2018 -- <https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6,> <https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm>  
+mit probability 2018 -- <https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6>, <https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm>  
 <https://www.khanacademy.org/math/statistics-probability>  
 harvard -- <https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo>  
 
