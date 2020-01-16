@@ -52,12 +52,14 @@
 
 ## Теория вероятностей
 
-Мы планируем начать в декабре. Если есть желание заняться раньше, вот набор ссылок:
+Димины материалы и домашние задания:
 
+- <https://yadi.sk/d/t0jjC8X4bkZDVQ>
+
+Вот хорошие задачи с разбором здесь: <http://dmvn.mexmat.net/content/ptms/pr-probabilitytheory-kondratenko.pdf>  
 Феллер В. Введение в теорию вероятностей и её приложения  
 Ширяев А.И. Вероятность  
 Ширяев et. al. Вероятность в теоремах и задачах (с доказательствами и решениями)  
-Еще вот хорошие задачи с разбором здесь: <http://dmvn.mexmat.net/content/ptms/pr-probabilitytheory-kondratenko.pdf>  
 
 <http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability  
 
