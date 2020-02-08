@@ -42,7 +42,8 @@
 Полезные штуки, которые не помогут решать задачи, но помогут разобраться, с чем мы имеем дело:
 
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown, [перевод](https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
-- Интерактивная визуализация — https://the-learning-machine.com/article/machine-learning/linear-algebra
+- Интерактивная визуализация (работает в хроме) — https://the-learning-machine.com/article/machine-learning/linear-algebra
+- Еще — http://setosa.io/ev/eigenvectors-and-eigenvalues/
 
 Книги и задачники:
 
@@ -62,6 +63,7 @@
 Ширяев et. al. Вероятность в теоремах и задачах (с доказательствами и решениями)  
 
 <http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability  
+<http://setosa.io/ev/principal-component-analysis/> — pca наглядно  
 
 mit probability 2018 -- <https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6>, <https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm>  
 <https://www.khanacademy.org/math/statistics-probability>  
