@@ -3,13 +3,11 @@
 - февраль [ФКН](#ФКН)
 - февраль-март [Ozon Masters](#ozon-masters)
 - май-июнь [ШАД](#ШАД)
-- август [ФКН](#ФКН)
+- август [ФКН](#ФКН), [Сколково](#Сколково)
 
-TODO: Сколково, Физтех, MADE
+TODO: Физтех, MADE
 
 # Программы поступления
-
-TODO: add more
 
 ## ШАД
 
@@ -38,7 +36,13 @@ TODO: онлайн-экзамены
 
 ## Сколково
 
-<http://msc.skoltech.ru/nauki-o-dannykh>
+Apply before: March 15, 2020
+
+<https://www.skoltech.ru/en/apply/msc-programs/>  
+<https://student.skoltech.ru/how-to-apply>  
+
+<https://msc.skoltech.ru/data-science>  
+<https://msc.skoltech.ru/exams>  
 
 Онлайн-тест: <https://box.skoltech.ru/index.php/s/FkvbVupxqDC4sWP>  
 Экзамен: <https://box.skoltech.ru/index.php/s/ROpoYgFYySF2QmN>  
