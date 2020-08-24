@@ -104,15 +104,19 @@ https://www.khanacademy.org/math/multivariable-calculus
 Есть платный курс яндекса по C++, на дне открытых дверей сказали, что первых двух поясов достаточно.  
 <https://yandex.ru/online-courses/>  
 <https://www.coursera.org/specializations/c-plus-plus-modern-development/>  
+Но они нужны только тем, кто совсем с нуля.
 
 Вот этот курс по алгоритмам и структурам важнее для экзамена.
 <https://www.coursera.org/specializations/data-structures-algorithms/>  
-Если что, можно запросить financial aid с любым текстом, там робот ровно через две недели предоставляет его всем, не читая.  
+Если что, можно запросить financial aid с любым текстом, можно копипастить [lorem ipsum](https://ru.wikipedia.org/wiki/Lorem_ipsum), там робот ровно через две недели предоставляет его всем, не читая.  
 
 Но вообще, должно быть достаточно следующего, что бесплатно.  
 <https://www.hackerrank.com/domains/cpp>  
 <https://www.hackerrank.com/domains/algorithms>  
 <https://leetcode.com>  
+<http://https://codeforces.com>
+
+По сложности задачи в шад — примерно эквивалент задач A-C второго дивизиона на codeforces.
 
 Здесь человек прорешал много задач с литкода и выписал подсказки по типам задач, мы можем сделать похожий список: <https://github.com/SeanPrashad/lc#tips-to-consider>
 
