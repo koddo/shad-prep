@@ -106,7 +106,7 @@ https://www.khanacademy.org/math/multivariable-calculus
 <https://www.coursera.org/specializations/c-plus-plus-modern-development/>  
 Но они нужны только тем, кто совсем с нуля.
 
-Вот этот курс по алгоритмам и структурам важнее для экзамена — среди его преподавателей призеры чемпионатов по программированию.
+Вот этот курс по алгоритмам и структурам важнее для экзамена — среди его преподавателей призеры чемпионатов по программированию, которые преподают в ВШЭ и в ШАДе:  
 <https://www.coursera.org/specializations/data-structures-algorithms/>  
 Если что, можно запросить financial aid с любым текстом, можно копипастить [lorem ipsum](https://ru.wikipedia.org/wiki/Lorem_ipsum), там робот ровно через две недели предоставляет его всем, не читая.  
 
