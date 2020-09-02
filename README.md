@@ -110,16 +110,7 @@ https://www.khanacademy.org/math/multivariable-calculus
 <https://www.coursera.org/specializations/data-structures-algorithms/>  
 Если что, можно запросить financial aid с любым текстом, можно копипастить [lorem ipsum](https://ru.wikipedia.org/wiki/Lorem_ipsum), там робот ровно через две недели предоставляет его всем, не читая.  
 
-Но вообще, должно быть достаточно следующего, что бесплатно.  
-<https://www.hackerrank.com/domains/cpp>  
-<https://www.hackerrank.com/domains/algorithms>  
-<https://leetcode.com>  
-
-<https://codeforces.com>
-
-По сложности задачи в шад — примерно эквивалент задач A-C второго дивизиона на codeforces.
-
-Здесь человек прорешал много задач с литкода и выписал подсказки по типам задач, мы можем сделать похожий список: <https://github.com/SeanPrashad/lc#tips-to-consider>
+По сложности задачи в шад — примерно эквивалент задач A-C второго дивизиона на [codeforces.com](https://codeforces.com).
 
 ## Остальное
 
