@@ -22,7 +22,7 @@
 
 ## Линейная алгебра
 
-Димины материалы и домашние задания:
+Материалы и домашние задания:
 
 - <https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa>
 
@@ -41,7 +41,7 @@
 - [ШАД prep — линал 07](timestamps.linear_algebra.md#шад-prep--линал-07)
 - [ШАД prep — линал 08](timestamps.linear_algebra.md#шад-prep--линал-08)
 
-Вот Димины материалы прошлых лет:
+Вот материалы прошлых лет:
 
 - здесь попроще, для вечерников, без доказательств — https://yadi.sk/d/rGp2se9qIlhyQA
 - шестидневный курс по всей математике для машинного обучения — https://yadi.sk/d/HIRsHY8EiJlwiw
@@ -61,7 +61,7 @@
 
 ## Теория вероятностей
 
-Димины материалы и домашние задания:
+Материалы и домашние задания:
 
 - <https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa>
 
@@ -79,7 +79,7 @@ harvard -- <https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxb
 
 ## Математический анализ
 
-Димины материалы и домашние задания:
+Материалы и домашние задания:
 
 - <https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa>
 
