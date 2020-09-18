@@ -10,7 +10,7 @@
 
 Чат: https://t.me/shad_prep_meetup_msk  
 Материалы семинаров и дз: https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa  
-Разбор задач: https://discourse.shad-prep-meetup-msk.ru  
+Разбор задач: https://discourse.superlearn.it  
 
 Смело оставляйте вопросы в комментариях к файлам на дропбоксе и создавайте темы на дискурсе.
 
