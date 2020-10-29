@@ -17,7 +17,9 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 # Материалы
 
 Чат в телеграме: https://t.me/shad_prep  
+  
 Материалы семинаров и дз прошлых лет, скоро будут новые: https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa  
+  
 Разбор задач: https://discourse.superlearn.it  
 
 Смело оставляйте вопросы в комментариях к файлам на дропбоксе и создавайте темы на дискурсе.
