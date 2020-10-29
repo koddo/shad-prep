@@ -6,7 +6,7 @@
 
 # Программы поступления
 
-Вот программа экзамена в [https://yandexdataschool.ru/enroll](ШАД): https://yandexdataschool.ru/static/files/shad_program.pdf  
+Вот программа экзамена в [ШАД](https://yandexdataschool.ru/enroll): https://yandexdataschool.ru/static/files/shad_program.pdf  
 
 Примерно те же требования и для поступления в магистратуру ФКН, Сколково, МФТИ, для Ozon Masters, MADE: [программы поступления](programmes.md).  
 
