@@ -39,26 +39,17 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 
 - <https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa>
 
-Пример видео, которые получают участники: 
+Вот пример одной из видеозаписей, которые получают участники:
 
 - ШАД prep — линал 01 — https://www.youtube.com/watch?v=qpbDzZETNhA
 
-Таймстэмпы на ютубе в описании кликабельны, здесь они все собраны в один файл:
-
-- [ШАД prep — линал 01](timestamps.linear_algebra.md#шад-prep--линал-01)
-- [ШАД prep — линал 02](timestamps.linear_algebra.md#шад-prep--линал-02)
-- [ШАД prep — линал 03](timestamps.linear_algebra.md#шад-prep--линал-03)
-- [ШАД prep — линал 04](timestamps.linear_algebra.md#шад-prep--линал-04)
-- [ШАД prep — линал 05](timestamps.linear_algebra.md#шад-prep--линал-05)
-- [ШАД prep — линал 06](timestamps.linear_algebra.md#шад-prep--линал-06)
-- [ШАД prep — линал 07](timestamps.linear_algebra.md#шад-prep--линал-07)
-- [ШАД prep — линал 08](timestamps.linear_algebra.md#шад-prep--линал-08)
+Таймстэмпы на ютубе в описании кликабельны, здесь они все собраны в один файл: [timestamps.linear_algebra.md](timestamps.linear_algebra.md)
 
 Вот Димины материалы прошлых лет:
 
 - здесь попроще, для вечерников, без доказательств — https://yadi.sk/d/rGp2se9qIlhyQA
 - шестидневный курс по всей математике для машинного обучения — https://yadi.sk/d/HIRsHY8EiJlwiw
-- хардкор для студентов на всякий случай тоже здесь — материалы курса по Линейной алгебре для пилотного потока ФКН 2018-2019 — http://wiki.cs.hse.ru/Линейная_алгебра_и_геометрия_на_ПМИ_2020/2021_(пилотный_поток)
+- хардкор для студентов на всякий случай тоже здесь — материалы курса по Линейной алгебре для пилотного потока ФКН 2018-2019 — http://wiki.cs.hse.ru/Линейная_алгебра_и_геометрия_на_ПМИ_2019/2020_(пилотный_поток)
 
 Полезные штуки, которые не помогут решать задачи, но помогут разобраться, с чем мы имеем дело:
 
