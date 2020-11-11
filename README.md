@@ -56,7 +56,7 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 
 - Сборник задач по алгебре под редакцией А.Н. Кострикина. Новое издание. М.: МЦНМО, 2009.
 - Э.Б. Винберг. Курс алгебры. М.: Факториал, 1999 (или любое последующее издание)
-- Linear Algebra Done Right, ин Sheldon Axler
+- Linear Algebra Done Right, by Sheldon Axler
 
 ## Теория вероятностей
 
