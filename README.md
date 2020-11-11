@@ -35,9 +35,8 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 
 ## Линейная алгебра
 
-Материалы прошлых лет и домашние задания, скоро добавим новые:
-
-- <https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa>
+- Материалы этого года, shad-prep-2021: https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza
+- Прошлый год: <https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa>
 
 Вот пример одной из видеозаписей, которые получают участники:
 
