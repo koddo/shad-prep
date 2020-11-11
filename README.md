@@ -20,7 +20,7 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 # Ресурсы
 
 Чат в телеграме: https://t.me/shad_prep  
-Материалы и домашнее задание: https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza
+Материалы и домашнее задание: https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza  
 Разбор задач: https://discourse.superlearn.it  
 
 Смело оставляйте вопросы в чате и создавайте темы в дискурсе.
