@@ -17,11 +17,11 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 Вот набросок программы курса: [topics.pdf](topics.pdf). Она не отражает разброс тем по дням. Просто потому что где-то что-то может затянуться, где-то наоборот можно пройти быстрее. Плюс надо не забывать, что теория будет идти вперемешку с разбором ключевых задач. Еще по математическому анализу программа весьма приблизительная. Позже откаллибруемся под запросы слушателей.
 
 
-# Материалы
+# Ресурсы
 
 Чат в телеграме: https://t.me/shad_prep  
   
-Материалы семинаров и дз прошлых лет, скоро будут новые: https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa  
+Материалы и домашнее задание: https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza
   
 Разбор задач: https://discourse.superlearn.it  
 
@@ -35,17 +35,15 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 
 ## Линейная алгебра
 
-- Материалы этого года, shad-prep-2021: https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza
-- Прошлый год: <https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa>
+Материалы и домашнее задание: https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza  
 
-Вот пример одной из видеозаписей, которые получают участники:
+Вот пример видеозаписи: https://www.youtube.com/watch?v=qpbDzZETNhA — разница в том, что сейчас мы встречаемся онлайн.  
 
-- ШАД prep — линал 01 — https://www.youtube.com/watch?v=qpbDzZETNhA
-
-Таймстэмпы на ютубе в описании кликабельны, здесь они все собраны в один файл: [timestamps.linear_algebra.md](timestamps.linear_algebra.md)
+Таймстэмпы на ютубе в описании кликабельны, здесь они все собраны в один файл: [timestamps.linear_algebra.md](timestamps.linear_algebra.md)  
 
 Вот Димины материалы прошлых лет:
 
+- материалы этого курса в прошлом году: <https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa>
 - здесь попроще, для вечерников, без доказательств — https://yadi.sk/d/rGp2se9qIlhyQA
 - шестидневный курс по всей математике для машинного обучения — https://yadi.sk/d/HIRsHY8EiJlwiw
 - хардкор для студентов на всякий случай тоже здесь — материалы курса по Линейной алгебре для пилотного потока ФКН 2018-2019 — http://wiki.cs.hse.ru/Линейная_алгебра_и_геометрия_на_ПМИ_2019/2020_(пилотный_поток)
@@ -60,33 +58,22 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 
 - Сборник задач по алгебре под редакцией А.Н. Кострикина. Новое издание. М.: МЦНМО, 2009.
 - Э.Б. Винберг. Курс алгебры. М.: Факториал, 1999 (или любое последующее издание)
-- А.И. Кострикин. Введение в алгебру. Часть II. Линейная алгебра. М.: Физматлит, 2000
+- Linear Algebra Done Right, ин Sheldon Axler
 
 ## Теория вероятностей
 
-Материалы и домашние задания:
-
-- <https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa>
+Начнем зимой.
 
 Вот хорошие задачи с разбором здесь: <http://dmvn.mexmat.net/content/ptms/pr-probabilitytheory-kondratenko.pdf>  
-Феллер В. Введение в теорию вероятностей и её приложения  
-Ширяев А.И. Вероятность  
-Ширяев et. al. Вероятность в теоремах и задачах (с доказательствами и решениями)  
 
 <http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability  
-<http://setosa.io/ev/principal-component-analysis/> — pca наглядно  
-
-mit probability 2018 -- <https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6>, <https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm>  
-<https://www.khanacademy.org/math/statistics-probability>  
-harvard -- <https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo>  
+<http://setosa.io/ev/principal-component-analysis/> — PCA наглядно.  
 
 ## Математический анализ
 
-Материалы и домашние задания:
+Начнем до или после тервера, решим позже.
 
-- <https://www.dropbox.com/sh/7e9i5zcto74rgz9/AADl_LspJbT4yWWYkzoh2kyEa>
-
-Демидович, антидемидович, китайский антидемидович.
+Для Демидовича есть антидемидович и китайский антидемидович, где все задачи разобраны, но на китайском.
 
 Приложения, которые берут интегралы и показывают шаги:  
 <https://products.wolframalpha.com/mobile/> — one $3 payment for the mobile, no need to pay $5 monthly  
@@ -95,12 +82,6 @@ harvard -- <https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxb
 <https://gamma.sympy.org>  
 <https://www.derivative-calculator.net>  
 <https://www.integral-calculator.com>  
-
-MIT 18.01 Single Variable Calculus, Fall 2006 — https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1  
-MIT 18.02 Multivariable Calculus, Fall 2007 — https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38  
-https://www.khanacademy.org/math/calculus-1  
-https://www.khanacademy.org/math/calculus-2  
-https://www.khanacademy.org/math/multivariable-calculus  
 
 ## Программирование
 
