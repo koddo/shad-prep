@@ -21,7 +21,7 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 
 Чат в телеграме: https://t.me/shad_prep  
 Материалы и домашнее задание: https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza  
-Таймстэмпы: <timestamps.linear_algebra.md>  
+Таймстэмпы: [timestamps.linear_algebra.md](timestamps.linear_algebra.md)  
 Форум для разбора задач: https://discourse.superlearn.it  
 
 Смело оставляйте вопросы в чате и создавайте темы в дискурсе.
@@ -38,7 +38,7 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 
 Вот пример видеозаписи: https://www.youtube.com/watch?v=qpbDzZETNhA — разница только в том, что сейчас мы встречаемся онлайн.  
 
-Таймстэмпы на ютубе в описании кликабельны, здесь они все собраны в один файл: <timestamps.linear_algebra.md>  
+Таймстэмпы на ютубе в описании кликабельны, здесь они все собраны в один файл: [timestamps.linear_algebra.md](timestamps.linear_algebra.md)  
 
 Вот Димины материалы прошлых лет:
 
