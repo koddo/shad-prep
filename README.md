@@ -22,6 +22,7 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 Материалы и домашнее задание: https://www.dropbox.com/sh/fswyhxqft9rehiy/AAAKo-_pUF0VM3sh3N60O2Aza  
 Таймстэмпы: [timestamps.linear_algebra.md](timestamps.linear_algebra.md)  
 Форум для разбора задач: https://discourse.superlearn.it  
+Дэка для Anki, чтобы повторять пройденное.
 
 Смело оставляйте вопросы в чате и создавайте темы в дискурсе.
 
