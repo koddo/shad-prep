@@ -62,9 +62,9 @@ https://yandexdataschool.ru/static/files/shad_program.pdf
 
 ## Теория вероятностей
 
-Начнем зимой.
+Задачник Шеня: https://www.mccme.ru/shen/proba.pdf
 
-Вот хорошие задачи с разбором здесь: <http://dmvn.mexmat.net/content/ptms/pr-probabilitytheory-kondratenko.pdf>  
+Еще хорошие задачи с разбором здесь, это мехматовские конспекты: <http://dmvn.mexmat.net/content/ptms/pr-probabilitytheory-kondratenko.pdf>  
 
 <http://www.randomservices.org/random/apps/index.html> — web apps that illustrate concepts in probability  
 <http://setosa.io/ev/principal-component-analysis/> — PCA наглядно.  
